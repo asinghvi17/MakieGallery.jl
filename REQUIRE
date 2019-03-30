@@ -11,16 +11,14 @@ Colors
 ColorVectorSpace
 FixedPointNumbers
 Documenter
-ModernGL
 MeshIO
 ImageMagick
 ImageTransformations
-GDAL
 FileIO
 ImageFiltering
 DataFrames
 RDatasets
 BinaryProvider
-StatsMakie
 ZipFile
 ColorSchemes
+StatsMakie
